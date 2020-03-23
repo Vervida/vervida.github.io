@@ -1,2 +1,1 @@
-# vervida.github.io
-Vervida website
+# Vervida Website
